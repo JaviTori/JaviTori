@@ -1,0 +1,9 @@
+- 👋 Hola,soy @JaviTori
+- 👀 Estoy interesado en ...
+- 🌱 actualmente estoy aprendiendo ...
+- 💞️ Estoy buscando colaborar en ...
+- 📫 como llegar a mi
+<!---
+JaviTori/JaviTori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.JaviTori/JaviTori es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+Puede hacer clic en el enlace Vista previa para ver los cambios.
+--->
